@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HussamAnwar
 - 👀 I’m interested in learning more about git and other coding languages
 - 🌱 I’m currently studying Computer Science at Suny PolyTechnic Institute
-- I am curently learning python as my first language
+- I currently know C, Python, and some Ruby.
 
 
 <!---
