@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HussamAnwar
-- 👀 I’m interested in learning more about git and other coding languages
+- 👀 I’m interested in learning more about git and other programming languages
 - 🌱 I’m currently studying Computer Science & Biology at Suny Polytechnic Institute
 - I currently know C, Python, and some Ruby.
 
